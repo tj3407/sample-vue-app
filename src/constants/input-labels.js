@@ -1,0 +1,7 @@
+export const INPUT_LABEL_EMAIL = "Email"
+export const INPUT_LABEL_FIRST_NAME = "First Name"
+export const INPUT_LABEL_LAST_NAME = "Last Name"
+export const INPUT_LABEL_PASSWORD = "Password"
+export const INPUT_LABEL_CONFIRM_PASSWORD = "Confirm Password"
+export const INPUT_LABEL_COUNTRY = "Company"
+export const INPUT_LABEL_COMPANY = "Country"
